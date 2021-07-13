@@ -18,13 +18,18 @@ so you can focus on writing your app without needing to reinvent the wheel.
 * [Make your first app](https://docs.djangoproject.com/en/3.2/intro/tutorial01/)
 
 ## ▶️ Screenshots
-**admin-page**
+>**admin-page**
 ![alt tag](https://raw.githubusercontent.com/ColonelAVP/Poll-app/master/imgs/dj1.1.png)
-**questions**
+
+
+>**questions**
 ![alt tag](https://raw.githubusercontent.com/ColonelAVP/Poll-app/master/imgs/dj2.2.png)
-**choices**
+
+>**choices**
 ![alt tag](https://raw.githubusercontent.com/ColonelAVP/Poll-app/master/imgs/dj3.3.png)
-**change-password**
+
+>**change-password**
 ![alt tag](https://raw.githubusercontent.com/ColonelAVP/Poll-app/master/imgs/dj4.4.png)
-**web-page**
+
+>**web-page**
 ![alt tag](https://raw.githubusercontent.com/ColonelAVP/Poll-app/master/imgs/dj5.5.png)
